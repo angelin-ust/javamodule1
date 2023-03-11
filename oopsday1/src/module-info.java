@@ -1,0 +1,2 @@
+module oopsday1 {
+}
