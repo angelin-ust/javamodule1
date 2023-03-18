@@ -9,7 +9,7 @@ public class Employee extends Person {
 private long empid;
 private String deptno;
 private double salary;
-//has-a //means empolyee has a address
+//has-a //means employee has a address
 private Address residenceAddress;
 private Address correspondingAddress;//we are taking user defined class as a data member
 
