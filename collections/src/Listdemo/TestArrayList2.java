@@ -30,7 +30,7 @@ public static void main(String[] args) {
 		System.out.println(in.MAX_VALUE);
 	}
 	else if(obj instanceof String) {
-		 String in=( String)obj;
+		 String in=(String)obj;
 		System.out.println(in);
 	}
 	/*
