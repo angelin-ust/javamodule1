@@ -3,7 +3,6 @@ package strategy.test;
 import strategy.context.SocialMediaContext;
 import strategy.impl.FacebookStrategy;
 import strategy.impl.GooglePlusStrategy;
-import strategy.impl.OrkutStrategy;
 import strategy.impl.TwitterStrategy;
 
 public class TestStrategy {
